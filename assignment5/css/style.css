@@ -1,0 +1,32 @@
+h1{
+  color: #f9ee5d;
+  text-align: center;
+  font-variant: small-caps;
+  font-size: 50px;
+}
+ul{
+  text-align: center;
+  padding-right: 40px;
+}
+li{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+  color: white;
+  text-align: center;
+}
+h4{
+  padding-top: 30px;
+  color: white;
+  text-align: center;
+}
+body{
+  background-color: black;
+}
