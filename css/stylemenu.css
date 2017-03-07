@@ -1,0 +1,33 @@
+h1{
+  color: #f9ee5d;
+  text-align: center;
+  font-variant: small-caps;
+  font-size: 50px;
+}
+ul{
+  text-align: center;
+  padding-right: 40px;
+}
+h2{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+h4{
+  padding-top: 30px;
+  color: white;
+  text-align: center;
+}
+body{
+  background-color: black;
+}
+h5{
+  color: white;
+  text-align: center;
+  font-variant: small-caps;
+  font-size: 20px;
+}
+p{
+  color: grey;
+  text-align: center;
+}

@@ -1,0 +1,41 @@
+img{
+  float: left;
+  padding-left: 50px;
+  padding-right: 30px;
+  padding-top: 30px;
+}
+h1{
+  color: #f9ee5d;
+  text-align: center;
+  font-variant: small-caps;
+  font-size: 50px;
+}
+ul{
+  text-align: center;
+  padding-right: 40px;
+}
+h3{
+  color: white;
+  text-align: left;
+  position: relative;
+  padding-top: 5px;
+  font-size: 15px;
+}
+h2{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+p{
+  padding-top: 10px;
+  color: white;
+  padding-right: 60px;
+}
+h4{
+  padding-top: 30px;
+  color: white;
+  text-align: center;
+}
+body{
+  background-color: black;
+}
